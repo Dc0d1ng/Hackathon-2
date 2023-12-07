@@ -17,7 +17,7 @@ function App() {
     <div>
       <h1>Dad Joke App</h1>
       <p>{joke}</p>
-      <button onClick={getDadJoke}>Get Joke</button>
+      <button onClick={getDadJoke}>PRESS ME FOR GOOD PHUN</button>
     </div>
   );
 }
